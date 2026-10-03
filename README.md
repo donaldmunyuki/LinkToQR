@@ -7,3 +7,4 @@ Instead of paying R350 or more per month for a branded QR code platform you bare
 
 ## Features & capabilities
 - Nine QR Code Types: URL, Text, Wi-Fi, Email, SMS, Image, PDF, MP3, and App Store links all encoded correctly without writing parsing logic yourself.
+- Three Theme Presets: Paper, Midnight, and Pastel visual styles with mesh gradients let you match brand aesthetics in one click.
