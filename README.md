@@ -12,3 +12,4 @@ Instead of paying R350 or more per month for a branded QR code platform you bare
 - Full Color Customization: Preset swatches plus a hex color picker let you dial in exact brand colors for foreground and background.
 - Three Download Sizes: Social (500px), Card (800px), and Print (1200px) presets remove guesswork about output quality for any use case.
 - Wi-Fi Credential Encoding: WPA, WEP, and open network support with proper WIFI: string formatting for restaurant menus and retail signage.
+- Validated File Uploads: Magic-byte verification, MIME checking, and 10MB limits ensure only safe files generate QR codes on your site.
