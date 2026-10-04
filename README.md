@@ -10,4 +10,4 @@ Instead of paying R350 or more per month for a branded QR code platform you bare
 - Three Theme Presets: Paper, Midnight, and Pastel visual styles with mesh gradients let you match brand aesthetics in one click.
 - Five Pattern Styles: Square, Dots, Rounded, Diamond, and Classy body shapes give you design variety without custom SVG work.
 - Full Color Customization: Preset swatches plus a hex color picker let you dial in exact brand colors for foreground and background.
-  
+- Three Download Sizes: Social (500px), Card (800px), and Print (1200px) presets remove guesswork about output quality for any use case.
