@@ -14,3 +14,4 @@ Instead of paying R350 or more per month for a branded QR code platform you bare
 - Wi-Fi Credential Encoding: WPA, WEP, and open network support with proper WIFI: string formatting for restaurant menus and retail signage.
 - Validated File Uploads: Magic-byte verification, MIME checking, and 10MB limits ensure only safe files generate QR codes on your site.
 - Rate-Limited Backend:
+- Responsive Mobile Layout:
