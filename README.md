@@ -17,3 +17,4 @@ Instead of paying R350 or more per month for a branded QR code platform you bare
 - Responsive Mobile Layout: Three-pane desktop workspace collapses to a single-column mobile view with dropdown selector for any device.
 - Highest Error Correction: Every QR uses level H error correction, staying scannable even when printed small or partially obscured.
 - Per-Type State Preservation: Switch between QR types without losing your inputs each type remembers its own content as you work.
+- One-Click Copy and Download: Pill download button with visual feedback and icon copy button make exporting QR codes fast and intuitive.
