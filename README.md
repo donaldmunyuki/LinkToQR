@@ -18,3 +18,9 @@ Instead of paying R350 or more per month for a branded QR code platform you bare
 - Highest Error Correction: Every QR uses level H error correction, staying scannable even when printed small or partially obscured.
 - Per-Type State Preservation: Switch between QR types without losing your inputs each type remembers its own content as you work.
 - One-Click Copy and Download: Pill download button with visual feedback and icon copy button make exporting QR codes fast and intuitive.
+
+**Use your preferred IDE**
+
+If you want to work locally using your own IDE, you can clone this repo and push changes.
+
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
