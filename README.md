@@ -6,6 +6,8 @@ One page comes ready to go: a three-pane workspace with a QR type selector sideb
 
 Instead of paying R350 or more per month for a branded QR code platform you barely control, you get a complete tool in hours, fully customizable, with no recurring fees.
 
+![LinkToQR- Laptop View](LinkToQR- Laptop View.png)
+
 ## Features & capabilities
 
 - Nine QR Code Types: URL, Text, Wi-Fi, Email, SMS, Image, PDF, MP3, and App Store links all encoded correctly without writing parsing logic yourself.
