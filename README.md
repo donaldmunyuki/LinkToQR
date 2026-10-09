@@ -25,7 +25,7 @@ Instead of paying R350 or more per month for a branded QR code platform you bare
 
 If you want to work locally using your own IDE, you can clone this repo and push changes.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-shnvm#installing-and-updating)
+The only requirement is having Node.js & npm installed.
 
 Follow these steps:
 
@@ -65,5 +65,3 @@ This project is built with:
 - Select the "Codespaces" tab.
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
-
-Have fun customizing your own QR Code.
