@@ -6,7 +6,7 @@ One page comes ready to go: a three-pane workspace with a QR type selector sideb
 
 Instead of paying R350 or more per month for a branded QR code platform you barely control, you get a complete tool in hours, fully customizable, with no recurring fees.
 
-![LinkToQR- Laptop View](LinkToQR- Laptop View.png)
+!["LinkToQR- Laptop View](LinkToQR.png)
 
 ## Features & capabilities
 
